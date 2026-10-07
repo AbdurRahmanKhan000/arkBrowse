@@ -1,1 +1,8 @@
-.venv/echo __pycache__/echo *.py[cod]echo .pytest_cache/echo build/echo dist/echo *.spececho *.log
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.spec
+*.log
