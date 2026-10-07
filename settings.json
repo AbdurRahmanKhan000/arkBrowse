@@ -1,0 +1,7 @@
+{
+  "theme_name": "Dark Slate",
+  "homepage_url": "arkbrowse://newtab",
+  "default_search_engine": "Google",
+  "adblock_enabled": true,
+  "force_https_enabled": true
+}
